@@ -1,8 +1,18 @@
-# 👋 Hey there, I'm Maxwell Morris
+# 👋 Hey, I'm Maxwell Morris  
 
-[![Website](https://img.shields.io/badge/Website-maxmorris.io-blue)](https://maxmorris.io)
-[![CV](https://img.shields.io/badge/Jobs-View%20My%20CV-green)](https://maxmorris.io/CVMaxwellMorris.pdf)
+[![Website](https://img.shields.io/badge/%20Website-maxmorris.io-1f8ecd?style=for-the-badge&logo=google-chrome)](https://maxmorris.io) 
+[![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/maxwellmorris) 
+[![Homelab](https://img.shields.io/badge/%20Homelab-MorrisLAN-333?style=for-the-badge&logo=github)](https://github.com/MorrisLAN/morrislan)  
 
-👨‍💻 **IT Engineer | Linux Systems & Network Specialist**
+---
 
-🌍 Bristol, UK
+## 👨‍💻 About Me  
+
+🚀 **IT Engineer | Linux Systems & Network Specialist**  
+📍 Bristol, UK
+
+---
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=m4xmorris&theme=transparent&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+🚀 Always learning, optimizing, and building cool stuff!
