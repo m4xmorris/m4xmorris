@@ -10,9 +10,3 @@
 
 🚀 **IT Engineer | Linux Systems & Network Specialist**  
 📍 Bristol, UK
-
----
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=m4xmorris&theme=transparent&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-🚀 Always learning, optimizing, and building cool stuff!
