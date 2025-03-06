@@ -8,5 +8,5 @@
 
 ## 👨‍💻 About Me  
 
-🚀 **IT Engineer | Linux Systems & Network Specialist**  
+🖧 **IT Engineer | Linux Systems & Network Specialist**  
 📍 Bristol, UK
